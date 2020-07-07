@@ -16,25 +16,6 @@ T9 | Front-end | 2020 | Semana 8 | Projeto JS
     - Validar campo de texto para não entrar itens vazios
     - Limpar campo de texto depois que insere o item na lista
 
-**BÔNUS**
-
-    - Marcar todos os itens como feito
-    - Excluir todos os itens da lista
-    - Reorganizar a ordem "arrastando" os cards utilizando drag and drop
-
---------------
-
-## CRONOGRAMA
-- **27/04:** Apresentação - Revisão de Js - Início do projeto;
-- **28/04:** Desenvolvimento de projeto;
-- **29/04:** Desenvolvimento de projeto;
-- **30/04:** Finalização e Apresentação do projeto;
-
---------------
-## Links Úteis
-**REGISTRE SUAS DÚVIDAS AQUI:**
-http://www.dontpad.com/t9-duvidas
-
 **Leituras Complementares**
 
 https://developer.mozilla.org/pt-BR/docs/Web/API/Event/target
@@ -45,4 +26,3 @@ https://www.w3schools.com/js/js_htmldom_nodes.asp
 
 https://developer.mozilla.org/pt-BR/docs/Web/Events
 
-# Lista de tarefas
