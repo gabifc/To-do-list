@@ -1,5 +1,5 @@
 # T9-Projeto2-TodoList
-T9 | Front-end | 2020 | Semana 8 | Projeto JS
+{reprograma} T9 | Front-end | 2020 | Semana 8 | Projeto JS
 
 **O projeto será em dupla**
 **[PRAZO DE ENTREGA]** 30/04 até 15h;
@@ -15,6 +15,9 @@ T9 | Front-end | 2020 | Semana 8 | Projeto JS
     - Excluir itens individualmente
     - Validar campo de texto para não entrar itens vazios
     - Limpar campo de texto depois que insere o item na lista
+      
+    
+  https://www.loom.com/share/0e11378dafe449fc883972e9152550ed
 
 **Leituras Complementares**
 
